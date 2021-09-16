@@ -2,7 +2,7 @@ import math
 
 
 def sum_numbers(a: int, b: int):
-    return a + b
+    return a + b + 1
 
 
 def example_function(a: int, b: int, c: int):
